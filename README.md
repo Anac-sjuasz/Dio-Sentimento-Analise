@@ -1,7 +1,7 @@
-# Dio-Sentimento-Analise
+# Dio-Sentimento-Análise
 
 ## Desafio de Projeto para Análise de sentimento
-## Foi solicitada a tradução do texto abaixo de ingles para portugues: 
+## Foi solicitada a tradução do texto abaixo de ingles para português: 
 
 IFAD pledges to transform the lives of at least 70 million small-scale food producers, as part of the World Bank’s AgriConnect initiative
 
@@ -32,7 +32,7 @@ Note to editors:
 IFAD is exclusively focused on investing in smallholder agriculture. IFAD-supported projects target poor rural people who derive all or part of their livelihoods from agriculture. IFAD’s
 
 
-#Tradução
+#TRADUÇÃO
 
 ##O FIDA compromete-se a transformar a vida de pelo menos 70 milhões de pequenos produtores agrícolas, no âmbito da iniciativa AgriConnect do Banco Mundial
 
